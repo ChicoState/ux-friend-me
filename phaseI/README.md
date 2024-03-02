@@ -2,7 +2,7 @@
 
 ## Introduction
 
-For Phase I of the project, we focused on understanding the challenges brought forth by social media as an industry, namely apps that rely on friend-making and scheduling as their minimum viable product. As a team, we decided that Meetup.com was closest in target to the expectations we had for our own app, FriendMe. Our objective was to identify key areas for improvement that can enhance user experience and engagement, particularly for individuals seeking community and connection online. This phase is dedicated to analyzing user needs, competitor landscape, and initial design considerations.
+For Phase I of the project, we focused on understanding the challenges brought forth by social media as an industry, namely apps that rely on friend-making and scheduling as their minimum viable product. As a team, we decided that Meetup.com was closest in target to the expectations we had for our own web app, FriendMe. Our objective was to identify key areas for improvement that can enhance user experience and engagement, particularly for individuals seeking community and connection online. This phase is dedicated to analyzing user needs, competitor landscape, and initial design considerations.
 
 ## Methods
 
@@ -14,13 +14,25 @@ Finally, the development of personas and scenarios was crucial in understanding 
 
 ## Findings
 
-!!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!!
+The competitive analysis revealed that Meetup.com is our closest competitor in context of our minimum viable product (MVP). We believe that the MVP to be a social platform that gives friend groups the ability to schedule events and leverage powerful scheduling tools to make it easier to meet up in person. With this context in mind, our analysis showed that Meetup.com already has powerful scheduling tools, event management, has a lean toward topical communities, and is available on both mobile and web. However, it was not without its flaws. Its focus on event management means there is less attention for prominent social features to shine. There are no social profiles, no friend lists, and notifications were not engaging. 
+
+The heuristic evaluation showed that the web version of Meetup.com has a strong foundation in usability design in at least half of the criteria we evaluated, but showed room for improvement in the other half. To start with, we noted that most information on the web app has a heavy lean on text and not as much on visual cues. This was a problem for the visibility of system status and we gave it a score of 7/10. Flexibility and ease of use showed a lack of personalization and customization, so previous filtering settings were not remembered and a user had to reapply them on every site visit. We gave this category a score of 8/10. Due to the overwhelming reliance of text to communicate most actions, we scored the aesthetic design a 7/10. We believe there is more room for discrete actions to improve on this area. There was also a surprising lack of documentation, but we will note that this does show a key strength behind the text-heavy lean in that it gets away with not needing much documentation as a consequence. We gave this category a score of 8/10. 
+
+The remaining categories scored well with a 10/10 each. The website had strong visibility of system information where groups and events as well as user registration information was always prominent. There is also a strong match between their online social system and the real world. Language for users and other lingo is clear and meets expectations of their usage. For example, users are referred to either as “organizers” or “attendees” and events are simply referred to as “events” or “meetups”. User control and freedom is also strong as the web app has access to the browser back button and other standard website usability features such as a clickable logo that returns a user back to the main page. Meetup.com is consistent in language and visual cues. Blue and red buttons signify important actions whereas white buttons indicate miscellaneous or related settings that pair with important actions. Events and Groups are also distinct verbiage and used often. Their app has a strong error prevention system and is very helpful in helping users recognize, diagnose, and recover from errors. It is easy to sign up for the wrong group, for example, but Meetup allows easy access to ‘leave group’. Lots of visible information regarding the group status, who to contact, or how you can take over that group if the organizer is inactive. Great use of warning popups if a user tries to leave a group by accident.
+
+Finally, personas and scenarios were developed to better understand the potential needs of our users using our findings as informed context. By using the personas as a lens, we engaged with the information we gatered from the heuristic evaluation and competitive analysis to create a more informed and empathetic understanding of our users which influenced our initial interface design sketches. Through this process, we understood that simplicity through visual cues, personalization of the scheduling experience, and a focus on community building were key areas of focus for our users.
 
 ## Conclusions
 
 !!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
 
+Our findings underscore the importance of a user-centric design that accommodates diverse user needs, promotes ease of use, and fosters a welcoming community atmosphere. Design recommendations include enhancing the platform's guidance for new users, improving accessibility features, and creating more personalized community discovery tools. These insights will guide our next steps in the design process, focusing on inclusivity and user engagement.
+
+
 ## Caveats
 
 !!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
+
+Our research methods, while comprehensive, have limitations. The heuristic evaluation was conducted by a small team, which may introduce bias. The personas, although detailed, are fictional and may not capture the full spectrum of user experiences. Future research should include a broader user base to validate these findings and refine our design recommendations.
+This report sets the stage for targeted improvements in social platforms, aiming to create more inclusive, engaging, and user-friendly experiences.
 
