@@ -24,15 +24,8 @@ Finally, personas and scenarios were developed to better understand the potentia
 
 ## Conclusions
 
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
-
-Our findings underscore the importance of a user-centric design that accommodates diverse user needs, promotes ease of use, and fosters a welcoming community atmosphere. Design recommendations include enhancing the platform's guidance for new users, improving accessibility features, and creating more personalized community discovery tools. These insights will guide our next steps in the design process, focusing on inclusivity and user engagement.
-
+The UX team concludes that our user demographic is looking for a social platform that encourages community buildings, scheduling, and friend-making. Our competitive analysis showed that Meetup.com is our closest frame of reference for our minimum viable product, and together with the heuristic evaluation and personas, we identified key areas for improvement. Namely, we believe that our platform should aim to be more visually engaging and stimulating, with a focus on personalization and commmunity-building. We hope that our initial sketches prove to be a step in the right direction to address these needs.
 
 ## Caveats
 
-!!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
-
-Our research methods, while comprehensive, have limitations. The heuristic evaluation was conducted by a small team, which may introduce bias. The personas, although detailed, are fictional and may not capture the full spectrum of user experiences. Future research should include a broader user base to validate these findings and refine our design recommendations.
-This report sets the stage for targeted improvements in social platforms, aiming to create more inclusive, engaging, and user-friendly experiences.
-
+A few caveats to consider are that we did not engage or interview any potential users. Our findings are entirely based through the usability strategies outlined. We also did not consider the mobile app version of Meetup.com as part of our heuristic evaluation, so all information is reliant on the web version.
