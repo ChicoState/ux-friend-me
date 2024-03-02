@@ -22,10 +22,16 @@
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+* Competitive analysis demonstrated that features across the seven analyzed competitors were strong, but **most were too different from our minimum viable product (MVP)** to be considered direct competitors. Some of the key findings were:
+  * Meetup.com was the closest competitor to our MVP
+  * Strengths included **powerful scheduling tools and event management**
+  * Weaknesses included **a lack of social features**, such as social profiles and friend lists
+* Heuristic evaluation of Meetup.com revealed opportunities for improvement:
+  * A text-heavy interface that could benefit from more visual cues
+  * Lack of personalization and customization
+  * No visible documentation
+* Personas and scenarios offered a more empathetic understanding of our users.
+  * **Simplicity through visual cues** and **a focus on community-building** were key areas of focus for our users.
 
 [Full phase I report](phaseI/)
 
