@@ -4,10 +4,10 @@
 
 ## UX Team Members
 
-* **[Eric Galvan](!!!URL to Person A's published portfolio!!!)** - !!!List of Person A's primary contributions!!!
-* **[Gigi](!!!URL to Person B's published portfolio!!!)** - !!!List of Person B's primary contributions!!!
-* **[Alejandro Barajas](https://github.com/ChicoState/ux-personal-portfolio-Aloo32)** - !!!List of Person C's primary contributions!!!
-* **[Ahmad](!! !!)**
+* **[Eric Galvan]((https://github.com/ChicoState/ux-personal-portfolio-GoosiferIO))** - Competitive analysis, heuristic avaluations, executive summary
+* **Gigi Hussussian** - Competitive analysis, heuristic avaluations, executive summary
+* **[Alejandro Barajas](https://github.com/ChicoState/ux-personal-portfolio-Aloo32)** - Competitive analysis, heuristic avaluations, executive summary
+* **Ahmad Iraki** - Competitive analysis, heuristic avaluations, executive summary
 
 # User-Centered Design Artifacts
  
