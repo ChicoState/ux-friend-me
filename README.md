@@ -1,6 +1,6 @@
 # FriendMe
 
-!!!Brief introduction to the project and the problem it is intended to solve!!!
+Welcome to FriendMe, a social platform that encourages our users to engage in cscheduling and friend-making. Our platform aims to be visually engaging with a focus on personalization and community-building.
 
 ## UX Team Members
 
@@ -11,8 +11,6 @@
 
 # User-Centered Design Artifacts
  
-!!!For the following, add a PDF of your artifact to the repository and replace the # with the file name!!!
-
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/)
 * [Wireframes](wireframes/)
