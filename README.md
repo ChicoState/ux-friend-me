@@ -4,10 +4,10 @@ Welcome to FriendMe, a social platform that encourages our users to engage in cs
 
 ## UX Team Members
 
-* **[Eric Galvan]((https://github.com/ChicoState/ux-personal-portfolio-GoosiferIO))** - Competitive analysis, heuristic avaluations, executive summary
-* **Gigi Hussussian** - Competitive analysis, heuristic avaluations, executive summary
-* **[Alejandro Barajas](https://github.com/ChicoState/ux-personal-portfolio-Aloo32)** - Competitive analysis, heuristic avaluations, executive summary
-* **Ahmad Iraki** - Competitive analysis, heuristic avaluations, executive summary
+* **[Eric Galvan]((https://github.com/ChicoState/ux-personal-portfolio-GoosiferIO))** - Competitive analysis, heuristic evaluations, cognitive walkthrough, wireframes, executive summary
+* **Gigi Hussussian** - Competitive analysis, heuristic evaluations, cognitive walkthrough, wireframes, executive summary
+* **[Alejandro Barajas](https://github.com/ChicoState/ux-personal-portfolio-Aloo32)** - Competitive analysis, heuristic evaluations, cognitive walkthrough, wireframes, executive summary
+* **Ahmad Iraki** - Competitive analysis, heuristic evaluations, cognitive walkthrough, wireframes, executive summary
 
 # User-Centered Design Artifacts
  
@@ -25,7 +25,7 @@ Welcome to FriendMe, a social platform that encourages our users to engage in cs
   * Strengths included **powerful scheduling tools and event management**
   * Weaknesses included **a lack of social features**, such as social profiles and friend lists
 * Heuristic evaluation of Meetup.com revealed opportunities for improvement:
-  * A text-heavy interface that could benefit from more visual cues
+  * A **text-heavy interface that could benefit from more visual cues**
   * Lack of personalization and customization
   * No visible documentation
 * Personas and scenarios offered a more empathetic understanding of our users.
@@ -37,10 +37,11 @@ Welcome to FriendMe, a social platform that encourages our users to engage in cs
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+* **Cognitive walkthroughs** with peer UX designers answered important questions about the usability of our wireframes.
+* Feedback was generally positive, but there were a few key takeaways that we will need to address in the next phase of the project.
+  * Usability currently **lacks navigational clarity**
+  * **Social anxiety** was not addressed in the wireframes
+* Wireframes were an important tool in communicating our design considerations up to this point, but **they were limited to only one path** through the app.
 
 [Full phase II report](phaseII/)
 
