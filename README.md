@@ -14,6 +14,7 @@ Welcome to FriendMe, a social platform that encourages our users to engage in cs
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/)
 * [Wireframes](wireframes/)
+* [Usability Protocol](protocol/)
 * [Prototype](https://www.figma.com/file/UrV17NFIJJJ3RnCt5D7aEQ/Wireframes---Friend-Me?type=design&node-id=0%3A1&mode=design&t=SE7istejrFTuqGbp-1)
 
 # Phase I: Analyzing Users, Competitors, and Initial Designs
