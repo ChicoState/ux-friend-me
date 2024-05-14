@@ -49,10 +49,10 @@ Welcome to FriendMe, a social platform that encourages our users to engage in cs
 
 **Executive Summary**
 
-We finished work on our prototype using Figma
-We tested our prototype in a user-test
-In our testing we found some significant changes to make as we continue the development
-Our main objective will be to improve feedback when interacting
+* We finished work on our prototype using Figma
+* We tested our prototype in a user-test
+* In our testing we found some significant changes to make as we continue the development
+* Our main objective will be to improve feedback when interacting
 As well as working on the overall layout to improve readability for tools users would commonly want
 ﻿
 [Full phase III report](phaseIII/)
