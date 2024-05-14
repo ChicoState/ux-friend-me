@@ -44,7 +44,7 @@ It was important to the team that every aspect of this test served as an opportu
 
 For the usability test, we anonymized the data and compiled it into a spreadsheet for analysis. For ethical considerations, any physical notes taken during the test were destroyed after the data was compiled. We used a stacked percentage bar graph to visualize the quantitative results, or rather the difficulty ratings for each task. The results are as follows:
 
-![Graph 1](./images/graph1.png)
+![Graph 1](./graph1.png)
 
 As for the success rates of each task, we found that Task 1 had a 100% success rate, Task 2 had a 90% success rate, and Task 3 had a 71% success rate. This data represented our qualitative results.
 
