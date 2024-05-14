@@ -44,7 +44,7 @@ It was important to the team that every aspect of this test served as an opportu
 
 ## Conclusions
 
-The usability testing phase for the FriendMe application provided invaluable insights into user interactions and satisfaction with the prototype. Overall, participants found the interface to be intuitive and the tasks reasonably straightforward, as evidenced by the generally low difficulty ratings across tasks. However, specific areas of improvement were identified that could enhance the user experience significantly.
+The usability testing phase for the FriendMe application provided invaluable insights into user interactions and satisfaction with the prototype. Overall, participants found the interface to be intuitive and the tasks reasonably straightforward, as evidenced by the generally low difficulty ratings across tasks. However, specific areas of improvement were identified that could enhance the user experience significantly. Feedback highlighted the calendar tool as a critical component of the application, with some users suggesting enhancements to its visibility and interaction design to streamline event scheduling. Navigation within the app received positive remarks for its simplicity, though suggestions for more direct shortcuts to frequent actions could reduce the number of steps users need to undertake.
 
 ## Caveats
 
