@@ -49,9 +49,11 @@ Welcome to FriendMe, a social platform that encourages our users to engage in cs
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+* We finished work on our prototype using Figma
+* We tested our prototype in a user-test
+* In our testing we found some significant changes to make as we continue the development
+  * Our main objective will be to improve feedback when interacting
+  * As well as working on the overall layout to improve readability for tools users would commonly want 
+
 
 [Full phase III report](phaseIII/)
