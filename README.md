@@ -54,5 +54,5 @@ Welcome to FriendMe, a social platform that encourages our users to engage in cs
 * A <b>Usability protocol</b> was created to help guide our researchers during usability testing.
 * <b>Usability testing</b> was performed with seven participants by guiding them through three key tasks while they used our prototype.
 * <b>Identified improvements:</b> The testing phase revealed several critical areas for improvement that are essential for enhancing the prototype’s effectiveness and usability.
-﻿<br><br>
+ 
 [Full phase III report](phaseIII/)
