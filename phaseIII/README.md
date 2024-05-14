@@ -44,6 +44,8 @@ It was important to the team that every aspect of this test served as an opportu
 
 ## Conclusions
 
+The usability testing phase for the FriendMe application provided invaluable insights into user interactions and satisfaction with the prototype. Overall, participants found the interface to be intuitive and the tasks reasonably straightforward, as evidenced by the generally low difficulty ratings across tasks. However, specific areas of improvement were identified that could enhance the user experience significantly.
+
 ## Caveats
 
 There were a few caveats that may have influenced the outcome of our study. Namely, the population of participants was comprised of only classmates in the usability course most of whom were within a similar age group. Because our application is meant for a wide range of users, it would have been beneficial to have a more diverse group of participants. Additionally, our researchers have a bit of inexperience with conducting usability tests, 
