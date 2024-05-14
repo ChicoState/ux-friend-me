@@ -50,10 +50,9 @@ Welcome to FriendMe, a social platform that encourages our users to engage in cs
 
 **Executive Summary**
 
-* <b>Prototype Completion:</b> We successfully completed the development of our prototype using Figma, a leading digital design tool.
-* <b>User Testing:</b> Following the prototype completion, we conducted extensive user testing to assess its functionality and user experience.
-* <b>Identified Improvements:</b> The testing phase revealed several critical areas for improvement that are essential for enhancing the prototype’s effectiveness.
-* <b>Focus on Feedback:</b> Our main objective moving forward is to refine the interactive feedback mechanisms, ensuring a more intuitive user experience.
-* <b>Layout Optimization:</b> We will also focus on improving the layout to increase readability and accessibility for frequently used tools by our target audience.
+* Developed a high-fidelity **prototype** that simulate the look and feel of the final application as close as possible.
+* A <b>Usability protocol</b> was created to help guide our researchers during usability testing.
+* <b>Usability testing</b> was performed with seven participants by guiding them through three key tasks while they used our prototype.
+* <b>Identified improvements:</b> The testing phase revealed several critical areas for improvement that are essential for enhancing the prototype’s effectiveness and usability.
 ﻿<br><br>
 [Full phase III report](phaseIII/)
