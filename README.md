@@ -4,9 +4,9 @@ Welcome to FriendMe, a social platform that encourages our users to engage in cs
 
 ## UX Team Members
 
-* **[Eric Galvan](https://github.com/ChicoState/ux-personal-portfolio-GoosiferIO)** - Competitive analysis, heuristic evaluations, cognitive walkthrough, wireframes, executive summary
-* **Gigi Hussussian** - Competitive analysis, heuristic evaluations, cognitive walkthrough, wireframes, executive summary
-* **[Alejandro Barajas](https://github.com/ChicoState/ux-personal-portfolio-Aloo32)** - Competitive analysis, heuristic evaluations, cognitive walkthrough, wireframes, executive summary
+* **[Eric Galvan](https://github.com/ChicoState/ux-personal-portfolio-GoosiferIO)** - Competitive analysis, heuristic evaluations, cognitive walkthrough, wireframes, executive summary, usability protocol, prototype, phase I-III reports 
+* **Gigi Hussussian** - Competitive analysis, heuristic evaluations, cognitive walkthrough, wireframes, executive summary, protocol
+* **[Alejandro Barajas](https://github.com/ChicoState/ux-personal-portfolio-Aloo32)** - Competitive analysis, heuristic evaluations, cognitive walkthrough, wireframes, executive summary, usability protocol, prototype, phase I-III reports
 * **Ahmad Iraki** - Competitive analysis, heuristic evaluations, cognitive walkthrough, wireframes, executive summary
 
 # User-Centered Design Artifacts
