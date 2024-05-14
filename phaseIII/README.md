@@ -29,7 +29,7 @@ The tasks that the user had to complete were as follows:
 2. Search for a local event by typing in a keyword into the search bar.
 3. Delete an event.
 
-Each task was actually phrased as a scenario to leave room for as much creativity as possible. As stated this was a 'think-aloud' approach, which just means that the user was encouraged to communicate their thought process out loud so that the researchers could understand their reasoning and decision-making process. After every task, the user was asked to rate the difficulty of the task on a scale of 1 to 5, with 1 being very easy and 5 being very difficult. We wanted to make sure to have a quantitative measure of the user's experience with the prototype to better inform every qualitative response we received.
+Each task was actually phrased as a scenario to leave room for as much creativity as possible. As stated this was a 'think-aloud' approach, which just means that the user was encouraged to communicate their thought process out loud so that the researchers could understand their reasoning and decision-making process. After every task, the user was asked to rate the difficulty of the task on a scale of 1 to 5, with 1 being very easy and 5 being very difficult. We wanted to make sure to have a quantitative measure of the user's experience with the prototype to better inform every qualitative response we received. Each task was also rated as a success or failure based on the user's ability to complete the task, but this result was not shared with the user.
 
 Finally, post-test questions were asked to get a sense of the user's overall experience with the prototype and how the study was conducted. These questions were as follows:
 
@@ -42,10 +42,26 @@ It was important to the team that every aspect of this test served as an opportu
 
 ## Findings
 
+For the usability test, we anonymized the data and compiled it into a spreadsheet for analysis. For ethical considerations, any physical notes taken during the test were destroyed after the data was compiled. We used a stacked percentage bar graph to visualize the quantitative results, or rather the difficulty ratings for each task. The results are as follows:
+
+![Graph 1](./images/graph1.png)
+
+As for the success rates of each task, we found that Task 1 had a 100% success rate, Task 2 had a 90% success rate, and Task 3 had a 71% success rate. This data represented our qualitative results.
+
+For detailed results, please refer to the [FriendMe: User Test Data Collection](https://docs.google.com/spreadsheets/d/1BvM-nbqoXXSm17ktTU95gF02FkI2WW9b6tgC1M8cS-w/edit?usp=sharing) spreadsheet mentioned previously.
+
 ## Conclusions
 
-The usability testing phase for the FriendMe application provided invaluable insights into user interactions and satisfaction with the prototype. Overall, participants found the interface to be intuitive and the tasks reasonably straightforward, as evidenced by the generally low difficulty ratings across tasks. However, specific areas of improvement were identified that could enhance the user experience significantly. Feedback highlighted the calendar tool as a critical component of the application, with some users suggesting enhancements to its visibility and interaction design to streamline event scheduling. Navigation within the app received positive remarks for its simplicity, though suggestions for more direct shortcuts to frequent actions could reduce the number of steps users need to undertake.
+The usability testing phase for the FriendMe application provided invaluable insights into user interactions and satisfaction with the prototype. Overall, participants found the interface to be intuitive and the tasks reasonably straightforward, as evidenced by the generally low difficulty ratings across tasks. From the figure above, we see that more than 70% of ratings given for Tasks 1 and 2 were 'very easy' or 'easy'. Task 3 skewed a little higher, but the trend still showed that 86% of users rated the task at most 'moderate', or a 3 out of 5.
+
+However, specific areas of improvement were identified that could enhance the user experience significantly. For context, Task 3 had users delete a previously-scheduled event using the FriendMe prototype. As can be gleaned from our data, Task 3 was the most difficult to complete and we might attribute that due to lack of visibility of previously-scheduled events in the user profile. Where most other options were clearly-bolded or had pictures to attribute their function, this particular task was well-hidden and lacked a clear call-to-action.
+
+Although the rest of the tasks proved mostly successful, we might also improve the usability function for Task 2, which had users search for a local event by typing in a keyword. The only way to solve this problem in the test was by typing into the search bar, but it would have been a great addition to also include the solution as an event listed within the 'filtered events' section of our prototype (which was also the main page). Most users, we noticed, looked there first.
+
+Overall, navigation within the app received positive remarks for its simplicity, though suggestions for more direct shortcuts to frequent actions could reduce the number of steps users need to undertake.
 
 ## Caveats
 
-There were a few caveats that may have influenced the outcome of our study. Namely, the population of participants was comprised of only classmates in the usability course most of whom were within a similar age group. Because our application is meant for a wide range of users, it would have been beneficial to have a more diverse group of participants. Additionally, our researchers have a bit of inexperience with conducting usability tests, 
+There were a few caveats that may have influenced the outcome of our study. Namely, the population of participants was comprised of only classmates enrolled in the CSCI 431W Usability Engineering course most of whom were within a similar age group. Because our application is meant for a wide range of users, it would have been beneficial to have a more diverse group of participants. Additionally, the usability tests across several projects were performed consecutively, which may have led to some fatigue in the participants. 
+
+
